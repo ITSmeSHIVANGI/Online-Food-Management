@@ -47,6 +47,7 @@ Contents</div>
           </div>
           <ul class="table-show">
 <li><a href="AllCustomer.jsp">Customer Details </a></li>
+		  <li><a href="AllForgotPassword.jsp">Password Reset </a></li>
 					<li><a href="AllReservation.jsp">Reservation </a></li>
 					<li><a href="AllContactUs.jsp">Contact Us </a></li>
 					<li><a href="AllAvailableStock.jsp">Available Stock </a></li>
